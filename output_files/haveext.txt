@@ -1,0 +1,11 @@
+awkfile.txt
+awkgrep.txt
+deletedtotal.txt
+deleted.txt
+examples.desktop
+havedigit.txt
+listing.txt
+newscript.sh
+sedfile.txt
+test67test.txt
+text111.txt
