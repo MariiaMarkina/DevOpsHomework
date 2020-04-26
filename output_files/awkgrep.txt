@@ -1,0 +1,49 @@
+   
+   
+кві 26 18:48 awkfile.txt
+кві 26 18:48 awkgrep.txt
+кві 26 16:50 deletedtotal.txt
+кві 26 18:48 deleted.txt
+бер 24 17:08 Desktop
+бер 24 17:08 Documents
+бер 24 17:08 Downloads
+бер 24 16:59 examples.desktop
+кві 26 18:48 havedigit.txt
+кві 26 18:53 listing.txt
+бер 24 17:08 Music
+кві 26 18:53 newscript.sh
+кві 26 17:32 Pictures
+бер 24 17:08 Public
+кві 26 18:48 sedfile.txt
+бер 24 17:08 Templates
+кві 26 17:26 test67test.txt
+кві 26 17:26 text111.txt
+бер 24 17:08 Videos
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+бер 24 17:08 Screenshot
+бер 24 17:08 Screenshot
+бер 24 17:08 Screenshot
+кві 26 17:32 Screenshot
+   
+   
+   
+   
+   
+   
+   
+   
+   
