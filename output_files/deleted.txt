@@ -1,0 +1,39 @@
+/home/mariia:
+-rw-r--r-- 1 mariia mariia 2038 кві 26 18:48 awkfile.txt
+-rw-r--r-- 1 mariia mariia  731 кві 26 18:48 awkgrep.txt
+-rw-r--r-- 1 mariia mariia 1623 кві 26 18:48 deleted.txt
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Desktop
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Documents
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Downloads
+-rw-r--r-- 1 mariia mariia 8980 бер 24 16:59 examples.desktop
+-rw-r--r-- 1 mariia mariia   27 кві 26 18:48 havedigit.txt
+-rw-r--r-- 1 mariia mariia    0 кві 26 18:53 listing.txt
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Music
+-rwx------ 1 mariia mariia  386 кві 26 18:53 newscript.sh
+drwxr-xr-x 2 mariia mariia 4096 кві 26 17:32 Pictures
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Public
+-rw-r--r-- 1 mariia mariia 1983 кві 26 18:48 sedfile.txt
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Templates
+-rw-r--r-- 1 mariia mariia    0 кві 26 17:26 test67test.txt
+-rw-r--r-- 1 mariia mariia    0 кві 26 17:26 text111.txt
+drwxr-xr-x 2 mariia mariia 4096 бер 24 17:08 Videos
+
+/home/mariia/Desktop:
+
+/home/mariia/Documents:
+
+/home/mariia/Downloads:
+
+/home/mariia/Music:
+
+/home/mariia/Pictures:
+-rw-rw-r-- 1 mariia mariia 167655 бер 24 17:08 Screenshot from 2020-03-24 17-08-31.png
+-rw-rw-r-- 1 mariia mariia   6299 бер 24 17:08 Screenshot from 2020-03-24 17-08-55.png
+-rw-rw-r-- 1 mariia mariia 167655 бер 24 17:08 Screenshot from 2020-03-24 17-08-59.png
+-rw-rw-r-- 1 mariia mariia  89527 кві 26 17:32 Screenshot from 2020-04-26 17-32-46.png
+
+/home/mariia/Public:
+
+/home/mariia/Templates:
+
+/home/mariia/Videos:
