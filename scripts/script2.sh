@@ -21,8 +21,8 @@ echo ${#word}
 a=$1
 b=$2
 c=$3
-echo "a+b/c="
-echo "scale=3; ($a+$b)/$c" | bc
-
+echo "$a + $b"
+echo "-----= `bc <<< "scale=3; ($a+$b)/$c"`"
+echo "$c"
 cp script2.sh Scripts
 exit 0
