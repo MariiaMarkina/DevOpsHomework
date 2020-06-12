@@ -1,5 +1,0 @@
-#!/bin/bash
-if [ -f /etc/httpd/conf/httpd.conf]
-then
-rm /etc/httpd/conf/httpd.conf 
-fi
