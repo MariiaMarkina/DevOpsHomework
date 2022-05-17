@@ -30,6 +30,7 @@ jobs:
       uses: github/codeql-action/analyze@v1
       with:
         output: sarif-results
+        upload: False
     - name: Upload SARIF
       uses: github/codeql-action/upload-sarif@v1
       with:
